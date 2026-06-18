@@ -1,7 +1,10 @@
 #cartoes{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    background-color: black;
+    height: 500px;
+    justify-content: flex-end;
+    align-items: stretch;
+    
 }
 
 .grupo{
